@@ -79,7 +79,7 @@ export const InvoiceDetailsForm = () => {
                         placeholder="Qat"
                         value={`${qty || ""}`}
                         type="text"
-                        pattern="[0-9]*"
+                        pattern="[0-9]*\.?[0-9]*"
                         onChange={(e) => {
                           const inputValue = e.target.value;
                           if (
