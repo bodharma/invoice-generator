@@ -46,7 +46,7 @@ You are free to use this code as inspiration. Please do not copy it directly. Cr
 
 - **Bug Reports:** To report bugs, create an issue on the project's GitHub repository.
 - **Feature Requests:** Feel free to suggest new features by creating an issue on GitHub.
-
+lol
 ### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=pranavp10/invoice-generator&type=Date)](https://star-history.com/#pranavp10/invoice-generator&Date)
