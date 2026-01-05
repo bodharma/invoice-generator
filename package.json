@@ -2,6 +2,26 @@
   "name": "invoice",
   "version": "0.1.0",
   "private": true,
+  "description": "⚠️ ARCHIVED - Free invoice generator fork with decimal support, PDF improvements, and Docker deployment. See https://github.com/EphyrTech/invoice-generator.git for the active version.",
+  "archived": true,
+  "homepage": "https://github.com/EphyrTech/invoice-generator.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodharma/invoice-generator.git"
+  },
+  "keywords": [
+    "invoice",
+    "generator",
+    "pdf",
+    "nextjs",
+    "react",
+    "typescript",
+    "archived"
+  ],
+  "author": {
+    "name": "Bohdan Lesiv",
+    "email": "bodharma@example.com"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
